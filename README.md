@@ -33,6 +33,12 @@ poetry run python3 task_1.py
 ```
 
 
-# TASK RESULT
+## TASK RESULTS
+
+## Task 1
 
 ![Swagger](task-1.png)
+
+## Task 2
+
+![Swagger](task-2.png)
